@@ -8,7 +8,7 @@ class Login extends Component {
       window.gapi.client
         .init({
           clientId:
-            "239888486617-nebtq2aclk9bv3otvm4o23lv6oliol19.apps.googleusercontent.com",
+            "23988566484865464545454882617-nebtq2aclk9bv3otvm4o23lv6oliol19bsjzbdcjbdjbsdjbadb.apps.googleusercontent.com",
           scope: "email"
         })
         .then(() => {
